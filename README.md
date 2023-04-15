@@ -1,0 +1,1 @@
+# crypto-100x-predictor
